@@ -1,0 +1,15 @@
+# Python environments and generated caches
+**/.venv/
+**/venv/
+**/env/
+**/__pycache__/
+**/*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Raw source workbooks remain local
+EV_ChargingDatasets/
+**/data/raw/*.xlsx
+
+# Fitted model binaries are reproducible and can be large
+**/outputs/models/
