@@ -8,7 +8,7 @@ data, documentation, and outputs remain independent.
 
 | Task | Directory | Status |
 |---|---|---|
-| 01 — EV charging demand forecasting | `task_01_ev_charging_demand_forecasting/` | Pipeline and forecast exports ready; Power BI report pending |
+| 01 — EV charging demand forecasting | `task_01_ev_charging_demand_forecasting/` | Pipeline, forecast exports, and Power BI report ready |
 | 02–16 | `task_NN_*` | Add as each task is defined |
 
 Task 1 covers session-data validation, hourly and daily aggregation, seasonal
