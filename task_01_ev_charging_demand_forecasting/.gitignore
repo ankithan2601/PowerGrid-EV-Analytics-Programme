@@ -1,0 +1,13 @@
+# Python environments and generated caches
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Keep the source workbook local by default to avoid accidentally committing a
+# large raw dataset. Remove this rule only if its size is verified below 50 MB
+# and the workbook is intended to be tracked.
+data/raw/*.xlsx

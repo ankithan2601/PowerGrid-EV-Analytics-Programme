@@ -1,0 +1,4 @@
+charger_type,charger_count,max_power_kW
+DC_150kW,69,150
+DC_300kW,35,300
+DC_50kW,95,50
